@@ -94,6 +94,3 @@ Business Recommendations
 - Closely monitor customers with high loan burden.
 - Review lending strategies for high-risk loan categories.
 - Use data-driven decisions for better risk management.
-
-
-## Project Structure
